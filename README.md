@@ -1,6 +1,6 @@
 <div align="center">
 
-# 路漫漫-Vue（Lomind-Vue）
+# Lomind-Vue（路漫漫-Vue）
 
 <p align="center">
     <a href="README.md">English</a> | 
