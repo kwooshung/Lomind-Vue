@@ -15,5 +15,7 @@
 
 ## 🔄 Other Versions
 
-- [路漫漫](https://github.com/kwooshung/lomind)
-- [路漫漫-React](https://github.com/kwooshung/lomind-React)
+- [Lomind](https://github.com/kwooshung/Lomind)
+- [Lomind-React](https://github.com/kwooshung/Lomind-React)
+
+## 🚧 This project has not been developed yet and will be improved in the future.
